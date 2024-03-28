@@ -1,0 +1,84 @@
+{
+  "name": "Isometric World",
+  "short_name": "Isometric World",
+  "id": "com.example.isometricworld",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "ios-icon-204.png",
+        "sizes": "20x20"
+      },{
+        "src": "ios-icon-294.png",
+        "sizes": "29x29"
+      },{
+        "src": "android-icon-364.png",
+        "sizes": "36x36"
+      },{
+        "src": "ios-icon-404.png",
+        "sizes": "40x40"
+      },{
+        "src": "android-icon-484.png",
+        "sizes": "48x48"
+      },{
+        "src": "ios-icon-504.png",
+        "sizes": "50x50"
+      },{
+        "src": "ios-icon-574.png",
+        "sizes": "57x57"
+      },{
+        "src": "ios-icon-584.png",
+        "sizes": "58x58"
+      },{
+        "src": "ios-icon-604.png",
+        "sizes": "60x60"
+      },{
+        "src": "android-icon-724.png",
+        "sizes": "72x72"
+      },{
+        "src": "ios-icon-764.png",
+        "sizes": "76x76"
+      },{
+        "src": "ios-icon-804.png",
+        "sizes": "80x80"
+      },{
+        "src": "ios-icon-874.png",
+        "sizes": "87x87"
+      },{
+        "src": "android-icon-964.png",
+        "sizes": "96x96"
+      },{
+        "src": "ios-icon-1004.png",
+        "sizes": "100x100"
+      },{
+        "src": "ios-icon-1144.png",
+        "sizes": "114x114"
+      },{
+        "src": "ios-icon-1204.png",
+        "sizes": "120x120"
+      },{
+        "src": "android-icon-1444.png",
+        "sizes": "144x144"
+      },{
+        "src": "ios-icon-1524.png",
+        "sizes": "152x152"
+      },{
+        "src": "ios-icon-1674.png",
+        "sizes": "167x167"
+      },{
+        "src": "ios-icon-1804.png",
+        "sizes": "180x180"
+      },{
+        "src": "android-icon-1924.png",
+        "sizes": "192x192"
+      },{
+        "src": "desktop-icon-5124.png",
+        "sizes": "512x512"
+      },{
+        "src": "ios-icon-10244.png",
+        "sizes": "1024x1024"
+      }]
+}
